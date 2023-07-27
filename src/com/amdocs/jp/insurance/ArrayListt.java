@@ -25,6 +25,15 @@ public class ArrayListt
 		arr.add(13);
 		
 		System.out.println(arr);
+		
+		ArrayList<String> arr1 = new ArrayList();
+		
+		arr1.add("nik");
+		arr1.add("Pawar");
+		arr1.add("Nikhil");
+		arr1.add("Pawar");
+		
+		System.out.println(arr1);
 	}
 	
 }
