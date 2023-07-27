@@ -13,7 +13,7 @@ public class ArrayListt
 		arrl.add("nikhil");
 		arrl.add(null);
 		arrl.add(67);
-		
+		arrl.add(234);
 		
 		System.out.println(arrl);
 	}
