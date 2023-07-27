@@ -16,6 +16,15 @@ public class ArrayListt
 		arrl.add(234);
 		
 		System.out.println(arrl);
+		
+		ArrayList<Integer> arr = new ArrayList();
+		
+		arr.add(45);
+		arr.add(34);
+		arr.add(90);
+		arr.add(13);
+		
+		System.out.println(arr);
 	}
 	
 }
